@@ -4,7 +4,7 @@ import time
 path = r"C:\\path_to_text_file\\text.txt"
 delay_before_start = 3
 type_interval = 0.05
-
+#program
 print("open file...")
 txt = open(path, "r")
 print("prepare for autotyping...")
